@@ -20,6 +20,20 @@ Trước khi bắt đầu, đảm bảo bạn đã cài đặt [Node.js](https:/
    cd server
    npm install
    npm start
-
+2. dotenv
+   ```bash
+   PORT= your_port
+   USER_NAME= your_ysername
+   PASSWORD= your_password
+   JWT_ACCESS_KEY= your_key
+   JWT_REFRESH_KEY= your_key
+   SESSION_SECRET= your_session
+   CLOUDINARY_NAME= your_cloudinary_name
+   CLOUDINARY_KEY= your_cloudinary_key
+   CLOUDINARY_SECRET= your_cloudinary_secret
+   USER = your_email
+   PASSWORD = your_password_email
+   SEND_TO = your_email_send
+   CLIENT_URL= your_url
 Dưới đây là một mẫu README cho một ứng dụng ReactJS kết hợp với Node.js:
 
