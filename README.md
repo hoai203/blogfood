@@ -15,11 +15,9 @@ Trước khi bắt đầu, đảm bảo bạn đã cài đặt [Node.js](https:/
    git clone https://github.com/hoai203/blogfood.git
    cd ten-ung-dung
 2. chạy ứng dụng
-   clent
 - cd client
 - npm install
 - npm run dev
-  server
 - cd server
 - npm install
 - npm start
